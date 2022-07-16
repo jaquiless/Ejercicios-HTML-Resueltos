@@ -1,0 +1,13 @@
+table,
+tr,
+td {
+  border: solid 1px black;
+  text-align: center;
+  border-collapse: collapse;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#contenedor {
+  border: none;
+  border-collapse: collapse;
+}
